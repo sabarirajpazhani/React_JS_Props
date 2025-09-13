@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Sabari Raj", "role": "Developer" },
+    { "id": 2, "name": "Pravin", "role": "Designer" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Learning React", "author": "Sabari" },
+    { "id": 2, "title": "Exploring JSON Server", "author": "Raj" }
+  ]
+}
